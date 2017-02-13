@@ -2,5 +2,5 @@
 Practice working with Swift.
 
 Collaborators:
-Selim Halac 
+Selim Halac \n
 David Moran
