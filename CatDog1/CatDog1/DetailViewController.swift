@@ -20,7 +20,7 @@ class DetailViewController: UIViewController {
                 label.text = detail.description
             }
         }
-    }
+    } //gfgfdg
 
     override func viewDidLoad() {
         super.viewDidLoad()
